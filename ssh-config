@@ -1,0 +1,5 @@
+#CAEN
+Host bguo
+	HostName login.engin.umich.edu
+	User brianguo
+	Compression yes
